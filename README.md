@@ -1,4 +1,4 @@
-# [Fancy Quiz App](https://2fk04.csb.app/)
+# [Fancy Quiz App](https://2fk04.codesandbox.io/)
 
 ## This app uses :
 - Vuejs
@@ -6,7 +6,7 @@
 - Bootstrap Vue
 - Open Trivia Database API 
 
-## [Live Demo](https://2fk04.csb.app/)
+## [Live Demo](https://2fk04.codesandbox.io/)
 
 ## Project setup
 ```
